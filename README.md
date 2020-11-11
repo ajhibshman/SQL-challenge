@@ -11,7 +11,7 @@ ERD was created to outline plan for tables in new database
 
 SQL queries were completed in PosgreSQL to answer various questions
 
-![ERD](https://github.com/ajhibshman/SQL-challenge/blob/main/images/query.png)
+![query](https://github.com/ajhibshman/SQL-challenge/blob/main/images/query.PNG)
 
 ## Bonus:
 
